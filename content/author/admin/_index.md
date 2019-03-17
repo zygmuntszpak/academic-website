@@ -78,4 +78,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Zygmunt L. Szpak received his PhD degree in Computer Science from the University of Adelaide, Australia, in 2013, and his MSc degree in Computer Science from the University of KwaZulu-Natal, South Africa, in 2009. He is a senior research associate at the Australian Institute for Machine Learning and works on numerous industry inspired computer vision and machine learning problems. Most recently his work has focused on the application of machine learning and multiple-view geometry techniques for the development of smart medical devices. 
+Zygmunt Szpak received his PhD degree in Computer Science from the University of Adelaide, Australia, in 2013, and his MSc degree in Computer Science from the University of KwaZulu-Natal, South Africa, in 2009. He is a senior research associate at the Australian Institute for Machine Learning and works on numerous industry inspired computer vision and machine learning problems. Most recently his work has focused on the application of machine learning and multiple-view geometry techniques for the development of smart medical devices. 
