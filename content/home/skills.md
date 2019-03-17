@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Skills"
 subtitle = ""
@@ -15,7 +15,7 @@ weight = 30
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
+#[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
